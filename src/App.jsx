@@ -12,6 +12,11 @@ const App = () => {
       name: "huihui",
       email: "huihui@gmail.com",
       age: 30,
+    },
+    {
+      name: "sidd",
+      email: "sidd@gmail.com",
+      age: 25,
     }
   ]
 
